@@ -1,3 +1,3 @@
 #!/bin/bash
-0 string /C SCHOOL School data
+0 string /Ctb SCHOOL School data
 !:mime School
